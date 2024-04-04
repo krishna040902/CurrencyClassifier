@@ -1,3 +1,3 @@
 # CurrencyClassifier
-Indian currency notes classifier for visually impaired people.
-Library used :- Tensorflow, Keras, openCV, gTTS, Matplotlib, Pandas
+An Indian Currency Notes Classifier System creayed specially for visually impaired people.
+Python Libraries used are:- Tensorflow, Keras, openCV, gTTS, Matplotlib, Pandas
